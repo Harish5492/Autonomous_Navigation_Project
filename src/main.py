@@ -25,6 +25,7 @@ def main():
 
     # Start navigation with obstacle avoidance
     navigate()
+    
 
 if __name__ == "__main__":
     main()
